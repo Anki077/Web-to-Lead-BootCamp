@@ -36,3 +36,10 @@ form{
     border: 2px solid;
     padding: 15px;
 }
+
+.g-recaptcha{
+    margin: 15px;
+    display: flex;
+    justify-content: center;
+    
+}
